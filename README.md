@@ -13,7 +13,7 @@ Before using any of these scripts you must edit config.json file
 
 # obtaining tokens from cookies
 To obtain tokens needed in config.json you should:
-- go to hellcase.com
+- go to [hellcase.com](https://hellcase.com)
 - login via steam link
 - press F12 when on main page of hellcase
 - go down into data section
