@@ -8,8 +8,8 @@ Collection of python scripts that help automate obtaining daily rewards.
 
 # editing config files
 Before using any of these scripts you must edit config.json file
-- xsrf is a token that is obtained from XSRF-TOKEN cookie from your browser, it doesn't need to be replaced every so often
-- session is a session token that can be obtained from hellcase_session cookie, it must be replaced every session closage or 30 days
+- "xsrf" is a token that is obtained from XSRF-TOKEN cookie from your browser, it doesn't need to be replaced every so often
+- "session" is a session token that can be obtained from hellcase_session cookie, it must be replaced every session closage or 30 days
 
 # obtaining tokens from cookies
 To obtain tokens needed in config.json you should:
