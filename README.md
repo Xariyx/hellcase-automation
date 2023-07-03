@@ -2,9 +2,9 @@
 Collection of python scripts that help automate obtaining daily rewards.
 
 # requirements
-requests library
-python2+
-account created on hellcase
+- requests library
+- python2+
+- account created on hellcase
 
 # editing config files
 Before using any of these scripts you must edit config.json file
